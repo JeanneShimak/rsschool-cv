@@ -2,7 +2,7 @@
 ----------------------
 # **Contacts**: 
 * +79821132957
-* discord: jeanne#9809
+* discord: zhanna (@JeanneShimak)
 * githab: JeanneShimak
 * email: zhanna.sh97@gmail.com
 
