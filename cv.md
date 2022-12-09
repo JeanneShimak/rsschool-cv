@@ -10,3 +10,4 @@ Just started learning frontend. My forte is love to learn.
 No skills yet
 #Language:
 English level - A1
+![photo](/photo.jpg "photo")
