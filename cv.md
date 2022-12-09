@@ -11,4 +11,4 @@ Just started learning frontend. My forte is love to learn.
 No skills yet
 # Language:
 English level - A1
-![photo](/photo.jpg =100x20 "photo")
+![photo](/photo.jpg=100x20 "photo")
