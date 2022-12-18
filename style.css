@@ -1,1 +1,23 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+}
 
+section {
+    padding: 10px;
+    border: 20px solid indigo;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+nav {
+    display: flex;
+    justify-content: flex-end
+}

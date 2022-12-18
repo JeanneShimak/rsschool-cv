@@ -8,8 +8,9 @@
 
 # About me
 Just started learning frontend. My forte is love to learn.
-No skills yet
+# Courses
+Code Basics - HTML, CSS
 # Language:
 English level - A1
 
-![photo](/photo.jpg "photo")
+![photo](/assets/photo.jpg "photo")
