@@ -17,4 +17,8 @@ Aspiring developer with a strong interest in frontend and mobile development. Fa
  ```
  <p> Hello, World </p>
  ```
- 
+ ## Expirience
+ ## Education
+- rs school stage0 in process
+## English
+* B1, I practiced English in some countries while traveling
