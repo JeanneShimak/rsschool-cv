@@ -18,27 +18,41 @@ body {
 .container {
     max-width: 1440px;
     margin: 0 auto;
-    display: flex ;
-justify-content: center;
-flex-direction: column;
-align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
 }
-.nav-list{
-     display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 20px;
-  list-style: none;
+
+.nav-list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    list-style: none;
 }
+
 .section {
-  
-max-width: 400px;
-width: 400px;
+
+    max-width: 500px;
+    width: 500px;
+    border-radius: 20px;
+    background-color: #f4f4f4;
+    padding: 20px;
+    margin: 10px;
 }
+
 .myphoto {
     width: 360px;
-    height: auto;
+    height: 360px;
     border-radius: 50%;
     object-fit: cover;
-    
+    margin: 20px 0;
+
+}
+
+.menu {
+    background-color: #ffffff75;
+    padding: 10px;
+    box-shadow: 2px 10px 10px 0px rgba(30, 53, 73, 0.2);
 }
