@@ -8,6 +8,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    background-color: #FFC107;
 }
 
 * {
@@ -17,4 +18,27 @@ body {
 .container {
     max-width: 1440px;
     margin: 0 auto;
+    display: flex ;
+justify-content: center;
+flex-direction: column;
+align-items: center;
+}
+.nav-list{
+     display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  list-style: none;
+}
+.section {
+  
+max-width: 400px;
+width: 400px;
+}
+.myphoto {
+    width: 360px;
+    height: auto;
+    border-radius: 50%;
+    object-fit: cover;
+    
 }
